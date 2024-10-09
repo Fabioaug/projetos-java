@@ -34,7 +34,7 @@ build/
 ### VS Code ###
 .vscode/
 .idea/
-CriarFuncionarioApi/src/resources/
+CriarFuncionarioApi/src/resources/*
 
 ### Mac OS ###
 .DS_Store
