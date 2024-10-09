@@ -1,1 +1,1 @@
-Pequeno acervo de projetos, atividades ou rascunhos em java, feitos especialmente por mim.
+Pequeno acervo de projetos, atividades ou rascunhos em java, feitos por mim.
